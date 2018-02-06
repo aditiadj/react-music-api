@@ -1,12 +1,14 @@
 {
-  "name": "react-music-api",
+  "name": "musicMaster",
   "version": "0.1.0",
   "private": true,
+  "devDependencies": {
+    "react-scripts": "0.8.5"
+  },
   "dependencies": {
-    "react": "^16.2.0",
-    "react-bootstrap": "^0.32.1",
-    "react-dom": "^16.2.0",
-    "react-scripts": "1.1.0"
+    "react": "^15.4.2",
+    "react-bootstrap": "^0.30.10",
+    "react-dom": "^15.4.2"
   },
   "scripts": {
     "start": "react-scripts start",
