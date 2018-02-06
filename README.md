@@ -1,6 +1,6 @@
 # Unfinished
 
-Still cannot solving how to get the auth token
+Still cannot solved, how to get the auth token
 
 Lesson 24
 
