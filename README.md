@@ -1,7 +1,21 @@
-# Unfinished
+# React-Spotify (Just 30 seconds playing music)
 
-Still cannot solved, how to get the auth token
+This is `React-Spotify`, a React front end client that communicates with the Spotify API.
 
-Lesson 24
+If you don't have a spotify account you can use the following credentials:
 
-Source: 15Dkatz
+> email: spotifyreact@gmail.com
+
+> password: Example
+
+
+![alt text](https://github.com/aditiadj/react-music-api/blob/master/spotifysongs.png "Song")
+![alt text](https://github.com/aditiaj/react-music-api/blob/master/spotifybrowse.png "Browse")
+
+If you want to run the code locally run the following.
+
+```
+npm install
+npm run start
+automatically linked to http://localhost:3000 on browser
+```
