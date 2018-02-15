@@ -10,7 +10,7 @@ If you don't have a spotify account you can use the following credentials:
 
 
 ![alt text](https://github.com/aditiadj/react-music-api/blob/master/spotifysongs.png "Song")
-![alt text](https://github.com/aditiaj/react-music-api/blob/master/spotifybrowse.png "Browse")
+![alt text](https://github.com/aditiadj/react-music-api/blob/master/spotifybrowse.png "Browse")
 
 If you want to run the code locally run the following.
 
@@ -19,3 +19,5 @@ npm install
 npm run start
 automatically linked to http://localhost:3000 on browser
 ```
+
+Source code from: Pau1fitz
