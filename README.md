@@ -14,10 +14,9 @@ If you don't have a spotify account you can use the following credentials:
 
 If you want to run locally, follow step below:
 
-```
-npm install
-npm run start
-automatically linked to http://localhost:3000 on browser
-```
+1. ``` git clone https://github.com/aditiadj/react-music-api ``` in your terminal
+2. ``` cd react-music-api ```
+3. ``` npm install ```
+4. ``` npm run start ```
 
-Source code from: Pau1fitz
+Source code from: [Pau1fitz](https://github.com/Pau1fitz/react-spotify) Thanks!
